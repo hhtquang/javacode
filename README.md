@@ -1,9 +1,10 @@
-REA Group Toy Robot Simulator Challenge
+Toy Robot Simulator Challenge
 Example usage
 Invoke the toy robot simulator as follows:
-java -jar rea-robot-<version>.jar [commands.txt]
-The simulator can be invoked with a plain text file containing commands, one command per line. If no command file is given, commands are read form sdtin.
-For a specification of the commands and on how the robot reacts to them, see PROBLEM.md.
-Getting Started
-Build
-To build the project, just run mvn clean package. The built JAR along with sample inputs can be found in the ./target/ directory.
+1. change directory to /target directory
+2. java -jar QToyRobot-0.0.1-SNAPSHOT.jar ../src/main/resources/exampleA.txt
+Please note there are multiple example files under /src/main/resources directory
+
+To build from the source code
+1. Run mvn clean install. 
+2. The built JAR can be found in the ./target/ directory.
