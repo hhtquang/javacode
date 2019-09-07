@@ -1,0 +1,8 @@
+com\qrobot\CommandReader.class
+com\qrobot\Moving.class
+com\qrobot\Command.class
+com\qrobot\Dimension.class
+com\qrobot\CommandAction.class
+com\qrobot\RobotCreator.class
+com\qrobot\Position.class
+com\qrobot\ToyRobot.class
