@@ -8,3 +8,4 @@ Please note there are multiple example files under /src/main/resources directory
 To build from the source code
 1. Run mvn clean install. 
 2. The built JAR can be found in the ./target/ directory.
+10. I just add this steps for testing AWS pipeline
